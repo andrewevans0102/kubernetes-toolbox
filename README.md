@@ -17,5 +17,3 @@ These examples can be used to learn about what I have named the `kubernetes tool
 - [kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/)
 - [minikube](https://kubernetes.io/docs/tasks/tools/install-minikube/)
 - [dashboard](https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/)
-
-There are additional tools that you can learn more on to include:
